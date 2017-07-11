@@ -1,15 +1,12 @@
 package com.ubs.opsit.interviews.tdd;
 
-import utils.TimeUtil;
+import com.ubs.opsit.interviews.utils.TimeUtil;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by admin on 7/9/2017.
- */
 public class TimeUtilTest {
 
     private String time;

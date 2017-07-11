@@ -4,10 +4,10 @@ import com.ubs.opsit.interviews.BerlinTimeConverter;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import static utils.TimeUtil.*;
+import static com.ubs.opsit.interviews.utils.TimeUtil.*;
 
 import static org.junit.Assert.*;
-import static utils.Constants.*;
+import static com.ubs.opsit.interviews.utils.Constants.*;
 
 public class BerlinTimeConverterTest {
 

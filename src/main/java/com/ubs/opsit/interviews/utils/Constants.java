@@ -1,4 +1,4 @@
-package utils;
+package com.ubs.opsit.interviews.utils;
 
 /**
  * Created by admin on 7/9/2017.

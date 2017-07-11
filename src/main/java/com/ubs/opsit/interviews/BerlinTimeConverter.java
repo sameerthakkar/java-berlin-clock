@@ -1,7 +1,7 @@
 package com.ubs.opsit.interviews;
 
-import static utils.Constants.*;
-import static utils.TimeUtil.*;
+import static com.ubs.opsit.interviews.utils.Constants.*;
+import static com.ubs.opsit.interviews.utils.TimeUtil.*;
 
 public class BerlinTimeConverter implements TimeConverter {
 

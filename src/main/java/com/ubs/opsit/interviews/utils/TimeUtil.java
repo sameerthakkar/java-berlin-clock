@@ -1,8 +1,9 @@
-package utils;
+package com.ubs.opsit.interviews.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import static utils.Constants.TIME24HOURS_PATTERN;
+
+import static com.ubs.opsit.interviews.utils.Constants.TIME24HOURS_PATTERN;
 
 public class TimeUtil {
 
